@@ -1,2 +1,3 @@
 # git-demo-project
-This repository for learning purpose
+This repository is for learning purpose.
+We will add a complete test ptoject here in this repository.
