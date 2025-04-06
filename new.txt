@@ -1,2 +1,3 @@
 It is a text file.
 This is an additional line.
+A new line has been added by the fellow collaborator.
